@@ -61,17 +61,17 @@
 <p align="center">
 <!-- dark mode only -->
     <a href="https://github.com/nisaunnu">
-        <img width="420px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=nisaunnu&theme=github_dark&show_icons=true&hide=none#gh-dark-mode-only"/>
+        <img width="360px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=nisaunnu&theme=github_dark&show_icons=true&hide=none#gh-dark-mode-only"/>
         <!-- for transparent background color : &bg_color=00000000 -->
         </a>
     &#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/nisaunnu">
-        <img width="420px" title="GitHub_Stats" src="https://streak-stats.demolab.com?user=nisaunnu&theme=github-dark-blue#gh-dark-mode-only"/>
+        <img width="360px" title="GitHub_Stats" src="https://streak-stats.demolab.com?user=nisaunnu&theme=github-dark-blue#gh-dark-mode-only"/>
         </a>
     <br>
     <br>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img  width="860px" alt="Nisa Ünnü's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nisaunnu&bg_color=0D1117&color=9D9D9D&line=1F6FEA&point=FFFFFF&hide_border=false#gh-dark-mode-only" />
+        <img  width="740px" alt="Nisa Ünnü's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nisaunnu&bg_color=0D1117&color=9D9D9D&line=1F6FEA&point=FFFFFF&hide_border=false#gh-dark-mode-only" />
         </a>
 </p>
 <br>
