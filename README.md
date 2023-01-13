@@ -24,7 +24,7 @@
         <img alt="Stackoverflow" title="Stackoverflow" src="https://custom-icon-badges.demolab.com/badge/Stackoverflow-C80000.svg?logo=stackoverflow&logoColor=white&style=flat&color=C80000">
         </a> 
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.linkedin.com/in/nisa-%C3%BCnn%C3%BC/">
+    <a href="https://www.linkedin.com/in/nisaunnu/">
         <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0245CA.svg?logo=linkedin&logoColor=white&style=flat&labelColor=0245CA">
         </a>  
     &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -52,8 +52,8 @@
         </a>
     <br>
     <br>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img  width="740px" alt="Nisa Ünnü's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nisaunnu&bg_color=0D1117&color=9D9D9D&line=1F6FEA&point=FFFFFF&hide_border=false#gh-dark-mode-only" />
+    <a href="https://github.com/nisaunnu">
+        <img  width="740px" alt="Nisa Ünnü's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nisaunnu&bg_color=0D1117&color=9D9D9D&line=1F6FEA&point=FFFFFF&hide_border=false&radius=20#gh-dark-mode-only" />
         </a>
 </p>
 <br>
