@@ -38,13 +38,22 @@
 </p>
 <br>
 
+
+
 ## 🎯 My Stats
 
 <p align="center">
 <!-- dark mode only -->
-    <a href="https://github.com/nisaunnu">
-        <img width="360px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=nisaunnu&theme=github_dark&show_icons=true&hide=none#gh-dark-mode-only"/>
-        <!-- for transparent background color : &bg_color=00000000 -->
+      <a href="https://github.com/nisaunnu">  
+        <picture>
+            <source 
+                srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark"
+                 media="(prefers-color-scheme: github_dark)" />
+            <source
+                 srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=none&theme=github_dark"
+                 media="(prefers-color-scheme: github_dark)" />
+            <img width="360px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=nisaunnu&show_icons=true&theme=github_dark" />
+        </picture>
         </a>
     &#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/nisaunnu">
@@ -58,18 +67,16 @@
 </p>
 <br>
 
-
-## 🛠️ My Favorite Tools
-
-### 👨‍💻 Programming and Markup Languages
+<h2> 🛠️ My Favorite Tools </h2>
+<br>
+<h3>👨‍💻 Programming and Markup Languages </h3>
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white&style=flat"></a>
     <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-264969.svg?logo=python&logoColor=white&style=flat"></a>
-</p>
-
-###  💻 Software and Tools
+</p><br>
+<h3>💻 Software and Tools </h3>
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-ED0E00.svg?logo=adobe&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-525DE9.svg?logo=discord&logoColor=white&style=flat"></a>
