@@ -20,6 +20,10 @@
         <img alt="GitLab" title="GitLab" src="https://custom-icon-badges.demolab.com/badge/GitLab-BD2A11.svg?logo=gitlab&logoColor=white&style=flat&color=BD2A11">
         </a> 
     &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://github.com/nisaunnu">
+        <img alt="GitHub" title="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-000000.svg?logo=github&logoColor=white&style=flat&color=000000">
+        </a> 
+    &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.kaggle.com/nisacerennn">
         <img alt="Kaggle" title="Kaggle" src="https://custom-icon-badges.demolab.com/badge/Kaggle-00AAD2.svg?logo=kaggle_new&logoColor=white&style=flat&labelColor=00AAD2">
         </a>
