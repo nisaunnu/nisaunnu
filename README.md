@@ -16,10 +16,14 @@
 <!-- Introduction -->
 
 <p align="center">
+    <a href="https://gitlab.com/nisaunnu">
+        <img alt="GitLab" title="GitLab" src="https://custom-icon-badges.demolab.com/badge/GitLab-BD2A11.svg?logo=gitlab&logoColor=white&style=flat&color=BD2A11">
+        </a> 
+    &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.kaggle.com/nisacerennn">
         <img alt="Kaggle" title="Kaggle" src="https://custom-icon-badges.demolab.com/badge/Kaggle-00AAD2.svg?logo=kaggle_new&logoColor=white&style=flat&labelColor=00AAD2">
         </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://stackoverflow.com/users/20032529/nisa-ceren-%c3%9cnn%c3%bc">
         <img alt="Stackoverflow" title="Stackoverflow" src="https://custom-icon-badges.demolab.com/badge/Stackoverflow-C80000.svg?logo=stackoverflow&logoColor=white&style=flat&color=C80000">
         </a> 
@@ -82,6 +86,7 @@
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-525DE9.svg?logo=discord&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-E44C30.svg?logo=git&logoColor=white&style=flat"></a>
     <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-7F248B.svg?logo=github&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="GitLab" title="GitLab" src="https://custom-icon-badges.demolab.com/badge/GitLab-BD2A11.svg?logo=gitlab&logoColor=white&style=flat&color=BD2A11"></a> 
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-168751.svg?logo=google%20sheets&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-E77124.svg?logo=Jupyter&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-179C8F?logo=photopea&logoColor=white&style=flat"></a>
