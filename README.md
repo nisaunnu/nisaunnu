@@ -63,15 +63,15 @@
             <img width="360px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=nisaunnu&show_icons=true&theme=github_dark" />
         </picture>
         </a>
-    &#8287;&#8287;&#8287;&#8287;
+   &#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/nisaunnu">
         <img width="360px" title="GitHub_Stats" src="https://streak-stats.demolab.com?user=nisaunnu&theme=github-dark-blue#gh-dark-mode-only"/>
-        </a>
-    <br>
+        </a>  
+<!--     <br>
     <br>
     <a href="https://github.com/nisaunnu">
         <img  width="740px" alt="Nisa Ünnü's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nisaunnu&bg_color=0D1117&color=9D9D9D&line=1F6FEA&point=FFFFFF&hide_border=false&radius=20#gh-dark-mode-only" />
-        </a>
+        </a>  -->
 </p>
 <br>
 
