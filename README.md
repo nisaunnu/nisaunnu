@@ -54,9 +54,6 @@
 <!-- dark mode only -->
       <a href="https://github.com/nisaunnu">  
         <picture>
-            <source 
-                srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark"
-                 media="(prefers-color-scheme: github_dark)" />
             <source
                  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=none&theme=github_dark"
                  media="(prefers-color-scheme: github_dark)" />
