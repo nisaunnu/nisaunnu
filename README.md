@@ -25,7 +25,7 @@
         </a> 
     &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://www.kaggle.com/nisacerennn">
-        <img alt="Kaggle" title="Kaggle" src="https://custom-icon-badges.demolab.com/badge/Kaggle-00AAD2.svg?logo=kaggle_new&logoColor=white&style=flat&labelColor=00AAD2">
+        <img alt="Kaggle" title="Kaggle" src="https://custom-icon-badges.demolab.com/badge/Kaggle-00AAD2.svg?logo=kaggle&logoColor=white&style=flat&labelColor=00AAD2">
         </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://stackoverflow.com/users/20032529/nisa-ceren-%c3%9cnn%c3%bc">
