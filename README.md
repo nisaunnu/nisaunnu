@@ -57,7 +57,7 @@
             <source
                  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=none&theme=github_dark"
                  media="(prefers-color-scheme: github_dark)" />
-            <img width="390px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=nisaunnu&show_icons=true&theme=github_dark" />
+            <img width="4600px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=nisaunnu&show_icons=true&theme=github_dark" />
         </picture>
         </a>
    &#8287;&#8287;&#8287;&#8287;
