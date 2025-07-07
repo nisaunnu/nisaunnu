@@ -5,7 +5,7 @@
 <p align="center"> 
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=22&pause=1000&color=23ADBE&center=true&vCenter=true&repeat=false&width=435&lines=Hi+I'm+Nisa+Ceren+%C3%9Cnn%C3%BC!" alt="Typing SVG" /></a>
     <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=22&pause=1000&color=23ADBE&center=true&vCenter=true&repeat=false&width=435&lines=Keep+Moving+Forward" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=22&pause=1000&color=23ADBE&center=true&vCenter=true&repeat=true&width=435&lines=Keep+Moving+Forward" alt="Typing SVG" /></a>
 </p>
 <br>
 
@@ -43,23 +43,21 @@
 
 <p align="center">
 <!-- dark mode only -->
-      <a href="https://github.com/nisaunnu">  
-        <picture>
-            <source
-                 srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=none&theme=github_dark"
-                 media="(prefers-color-scheme: github_dark)" />
-            <img width="410px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=nisaunnu&show_icons=true&theme=github_dark" />
-        </picture>
-        </a>
+	  <a href="https://github.com/nisaunnu">
+		<picture>
+			<source
+				 srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=none&theme=github_dark"
+				 media="(prefers-color-scheme: github_dark)" />
+			<img width="410px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=nisaunnu&show_icons=true&theme=github_dark" />
+		</picture></a>
    &#8287;&#8287;&#8287;&#8287;
-    <a href="https://github.com/nisaunnu">  
-        <picture>
-            <source
-                 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&hide=none&theme=github_dark"
-                 media="(prefers-color-scheme: github_dark)" />
-            <img width="310px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaunnu&show_icons=true&theme=github_dark&layout=compact" />
-        </picture>
-        </a>
+	<a href="https://github.com/nisaunnu">
+		<picture>
+			<source
+				 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&hide=none&theme=github_dark"
+				 media="(prefers-color-scheme: github_dark)" />
+			<img width="310px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaunnu&show_icons=true&theme=github_dark&layout=compact" />
+		</picture></a>
 <!--    <a href="https://github.com/nisaunnu">
         <img width="420px" title="GitHub_Stats" src="https://streak-stats.demolab.com?user=nisaunnu&theme=github-dark-blue#gh-dark-mode-only"/>
         </a>  
