@@ -3,13 +3,9 @@
 <!-- About Me -->
 
 <p align="center"> 
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Kaushan Script&size=22&pause=1000&color=23ADBEFF&center=true&vCenter=true&repeat=false&width=435&lines=Hi!+I'm+Nisa+Ceren+%C3%9Cnn%C3%BC!;" alt="Typing SVG" />
-        </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=22&pause=1000&color=23ADBE&center=true&vCenter=true&repeat=false&width=435&lines=Hi+I'm+Nisa+Ceren+%C3%9Cnn%C3%BC!" alt="Typing SVG" /></a>
     <br>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Kaushan Script&size=22&pause=1000&color=23ADBEFF&center=true&vCenter=true&width=435&lines=Keep+Moving+Forward" alt="Typing SVG" />
-        </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=22&pause=1000&color=23ADBE&center=true&vCenter=true&repeat=false&width=435&lines=Keep+Moving+Forward" alt="Typing SVG" /></a>
 </p>
 <br>
 
@@ -17,24 +13,19 @@
 
 <p align="center">
     <a href="https://gitlab.com/nisaunnu">
-        <img alt="GitLab" title="GitLab" src="https://custom-icon-badges.demolab.com/badge/GitLab-BD2A11.svg?logo=gitlab&logoColor=white&style=flat&color=BD2A11">
-        </a> 
+        <img alt="GitLab" title="GitLab" src="https://custom-icon-badges.demolab.com/badge/GitLab-BD2A11.svg?logo=gitlab&logoColor=white&style=flat&color=BD2A11"></a> 
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/nisaunnu">
-        <img alt="GitHub" title="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-000000.svg?logo=github&logoColor=white&style=flat&color=000000">
-        </a> 
+        <img alt="GitHub" title="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-000000.svg?logo=github&logoColor=white&style=flat&color=000000"></a> 
     &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://www.kaggle.com/nisacerennn">
-        <img alt="Kaggle" title="Kaggle" src="https://custom-icon-badges.demolab.com/badge/Kaggle-00AAD2.svg?logo=kaggle&logoColor=white&style=flat&labelColor=00AAD2">
-        </a>
+        <img alt="Kaggle" title="Kaggle" src="https://custom-icon-badges.demolab.com/badge/Kaggle-00AAD2.svg?logo=kaggle&logoColor=white&style=flat&labelColor=00AAD2"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://stackoverflow.com/users/20032529/nisa-ceren-%c3%9cnn%c3%bc">
-        <img alt="Stackoverflow" title="Stackoverflow" src="https://custom-icon-badges.demolab.com/badge/Stackoverflow-C80000.svg?logo=stackoverflow&logoColor=white&style=flat&color=C80000">
-    </a>
+        <img alt="Stackoverflow" title="Stackoverflow" src="https://custom-icon-badges.demolab.com/badge/Stackoverflow-C80000.svg?logo=stackoverflow&logoColor=white&style=flat&color=C80000"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.linkedin.com/in/nisaunnu/">
-        <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0245CA.svg?logo=linkedin&logoColor=white&style=flat&labelColor=0245CA">
-        </a>  
+        <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0245CA.svg?logo=linkedin&logoColor=white&style=flat&labelColor=0245CA"></a>  
     &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--    <a href="https://app.patika.dev/nisacerenunnu">
         <img alt="patika" title="patika" src="https://custom-icon-badges.demolab.com/badge/Patika.dev-FF6600.svg?logo=patika_beyaz&logoColor=white&style=flat&labelColor=FF6600"/>
