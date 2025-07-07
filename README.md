@@ -8,9 +8,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=22&pause=1000&color=23ADBE&center=true&vCenter=true&repeat=true&width=435&lines=Keep+Moving+Forward" alt="Typing SVG" /></a>
 </p>
 <br>
-
-<!-- Introduction -->
-
 <p align="center">
     <a href="https://gitlab.com/nisaunnu">
         <img alt="GitLab" title="GitLab" src="https://custom-icon-badges.demolab.com/badge/GitLab-BD2A11.svg?logo=gitlab&logoColor=white&style=flat&color=BD2A11"></a> 
@@ -34,27 +31,23 @@
 ## 🎯 My Stats
 
 <p align="center">
-      <a href="https://github.com/nisaunnu">  
-        <picture>
-            <source
-                 srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=none&theme=github_dark"
-                 media="(prefers-color-scheme: github_dark)" />
-            <img width="410px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=nisaunnu&show_icons=true&theme=github_dark" />
-        </picture></a>
-    <a href="https://github.com/nisaunnu">  
-        <picture>
-            <source
-                 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&hide=none&theme=github_dark"
-                 media="(prefers-color-scheme: github_dark)" />
-            <img width="310px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaunnu&show_icons=true&theme=github_dark&layout=compact" />
-        </picture></a>
+    <a href="https://github.com/nisaunnu">
+		<picture>
+			<source
+				 srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=none&theme=github_dark"
+				 media="(prefers-color-scheme: github_dark)" />
+			<img width="410px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=nisaunnu&show_icons=true&theme=github_dark" />
+		</picture></a>
+    &#8287;&#8287;&#8287;&#8287;
+    <a href="https://github.com/nisaunnu">
+		<picture>
+			<source
+				 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&hide=none&theme=github_dark"
+				 media="(prefers-color-scheme: github_dark)" />
+			<img width="310px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaunnu&show_icons=true&theme=github_dark&layout=compact" />
+		</picture></a>
 </p>
-
-
 <br>
-
-<!-- <h2> 🛠️ My Favorite Tools </h2>
-<br> -->
 <h2>👩🏻‍💻 Programming and Markup Languages </h3>
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white&style=flat"></a>
