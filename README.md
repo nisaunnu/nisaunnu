@@ -27,14 +27,6 @@
     <a href="https://www.linkedin.com/in/nisaunnu/">
         <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0245CA.svg?logo=linkedin&logoColor=white&style=flat&labelColor=0245CA"></a>  
     &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--    <a href="https://app.patika.dev/nisacerenunnu">
-        <img alt="patika" title="patika" src="https://custom-icon-badges.demolab.com/badge/Patika.dev-FF6600.svg?logo=patika_beyaz&logoColor=white&style=flat&labelColor=FF6600"/>
-        </a>  
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/nisaunnu/">
-        <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-purple.svg?logo=instagram&logoColor=white&style=flat&labelColor=7B1080FF"/>
-        </a>
-</p>-->
 <br>
 
 
@@ -42,24 +34,20 @@
 ## 🎯 My Stats
 
 <p align="center">
-<!-- dark mode only -->
       <a href="https://github.com/nisaunnu">  
         <picture>
             <source
                  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=none&theme=github_dark"
                  media="(prefers-color-scheme: github_dark)" />
             <img width="410px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=nisaunnu&show_icons=true&theme=github_dark" />
-        </picture>
-        </a>
-   &#8287;&#8287;&#8287;&#8287;
+        </picture></a>
     <a href="https://github.com/nisaunnu">  
         <picture>
             <source
                  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&hide=none&theme=github_dark"
                  media="(prefers-color-scheme: github_dark)" />
             <img width="310px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaunnu&show_icons=true&theme=github_dark&layout=compact" />
-        </picture>
-        </a>
+        </picture></a>
 </p>
 
 
