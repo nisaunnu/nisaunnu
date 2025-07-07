@@ -43,28 +43,23 @@
 
 <p align="center">
 <!-- dark mode only -->
-	  <a href="https://github.com/nisaunnu">
-		<picture>
-			<source srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=none&theme=github_dark" media="(prefers-color-scheme: github_dark)" />
-			<img width="410px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=nisaunnu&show_icons=true&theme=github_dark" />
-		</picture></a>
-   &#8287;&#8287;&#8287;&#8287;
-	<a href="https://github.com/nisaunnu">
-		<picture>
-			<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&hide=none&theme=github_dark" media="(prefers-color-scheme: github_dark)" />
-			<img width="310px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaunnu&show_icons=true&theme=github_dark&layout=compact" />
-		</picture></a>
-<!--    <a href="https://github.com/nisaunnu">
-        <img width="420px" title="GitHub_Stats" src="https://streak-stats.demolab.com?user=nisaunnu&theme=github-dark-blue#gh-dark-mode-only"/>
-        </a>  
-    <a href="https://github.com/JaeSeoKim/badge42">
-        <img width="500px"src="https://badge42.vercel.app/api/v2/cldyzvso800060fmnnkmsw17v/stats?cursusId=21&coalitionId=362" alt="nunnu's 42 stats" />
+      <a href="https://github.com/nisaunnu">  
+        <picture>
+            <source
+                 srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=none&theme=github_dark"
+                 media="(prefers-color-scheme: github_dark)" />
+            <img width="410px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=nisaunnu&show_icons=true&theme=github_dark" />
+        </picture>
         </a>
-     <br>
-    <br>
-    <a href="https://github.com/nisaunnu">
-        <img  width="740px" alt="Nisa Ünnü's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nisaunnu&bg_color=0D1117&color=9D9D9D&line=1F6FEA&point=FFFFFF&hide_border=false&radius=20#gh-dark-mode-only" />
-        </a>  -->
+   &#8287;&#8287;&#8287;&#8287;
+    <a href="https://github.com/nisaunnu">  
+        <picture>
+            <source
+                 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&hide=none&theme=github_dark"
+                 media="(prefers-color-scheme: github_dark)" />
+            <img width="310px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaunnu&show_icons=true&theme=github_dark&layout=compact" />
+        </picture>
+        </a>
 </p>
 
 
