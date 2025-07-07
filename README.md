@@ -45,17 +45,13 @@
 <!-- dark mode only -->
 	  <a href="https://github.com/nisaunnu">
 		<picture>
-			<source
-				 srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=none&theme=github_dark"
-				 media="(prefers-color-scheme: github_dark)" />
+			<source srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=none&theme=github_dark" media="(prefers-color-scheme: github_dark)" />
 			<img width="410px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=nisaunnu&show_icons=true&theme=github_dark" />
 		</picture></a>
    &#8287;&#8287;&#8287;&#8287;
 	<a href="https://github.com/nisaunnu">
 		<picture>
-			<source
-				 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&hide=none&theme=github_dark"
-				 media="(prefers-color-scheme: github_dark)" />
+			<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&hide=none&theme=github_dark" media="(prefers-color-scheme: github_dark)" />
 			<img width="310px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaunnu&show_icons=true&theme=github_dark&layout=compact" />
 		</picture></a>
 <!--    <a href="https://github.com/nisaunnu">
