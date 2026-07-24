@@ -2,7 +2,7 @@ name: Update Terminal Git Log
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 0 * * *' # Run it every day at midnight (once a day)
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          # ÖNEMLİ: Gerçek git log alabilmemiz için tüm geçmişi indirmesini sağlıyoruz
           fetch-depth: 0 
       
       - name: Set up Python
@@ -26,7 +25,7 @@ jobs:
           python -c '
           import urllib.request, json, re, subprocess
           
-          print("GitHub APIye baglaniliyor...")
+          print("Connecting to the GitHub API...")
           url = "https://api.github.com/users/nisaunnu/events/public?per_page=100"
           req = urllib.request.Request(url, headers={"User-Agent": "Nisa-Github-Action"})
           
@@ -38,30 +37,37 @@ jobs:
               count = 0
               for event in events:
                   if event.get("type") == "PushEvent":
-                      # KeyError/NameError almamak için güvenli .get zinciri
                       repo_name = event.get("repo", {}).get("name", "repo").split("/")[-1]
                       commits = event.get("payload", {}).get("commits", [])
                       for commit in commits:
+                          msg = commit.get("message", "Update").split("\n")[0]
+                          
+                          # FILTER THE BOT S OWN COMMITS:
+                          if "github-actions: terminal git log updated" in msg:
+                              continue
+                              
                           if count >= 5: break
                           sha = commit.get("sha", "0000000")[:7]
-                          msg = commit.get("message", "Guncelleme").split("\n")[0]
                           commits_text += f"{sha} {msg} · repo: {repo_name}\n"
                           count += 1
                   if count >= 5: break
           except Exception as e:
-              print("API Baglanti Hatasi:", e)
+              print("API Connection Error:", e)
           
-          # EĞER API İNAT EDİP VERİYİ GETİRMEZSE: GERÇEK GİT LOG KULLAN!
+          # IF THE API IS STUBBORN AND REFUSES TO RETRIEVE THE DATA:
           if not commits_text.strip():
-              print("API guncel commitleri dondurmedi. Lokal git gecmisi kullaniliyor...")
-              # Doğrudan sistemin terminalinde git log çalıştırıyoruz
-              result = subprocess.run(["git", "log", "--oneline", "-5"], capture_output=True, text=True)
+              print("The API did not return the latest commits. Local git history is being used...")
+              # We pull a wider list (20) and filter the bot from it.
+              result = subprocess.run(["git", "log", "--oneline", "-20"], capture_output=True, text=True)
               if result.returncode == 0 and result.stdout.strip():
-                  commits_text = result.stdout
+                  lines = result.stdout.strip().split("\n")
+                  # Clear the bot s messages
+                  filtered_lines = [line for line in lines if "github-actions: terminal git log updated" not in line]
+                  commits_text = "\n".join(filtered_lines[:5])
               else:
-                  commits_text = "Henuz gosterilecek bir commit yok."
+                  commits_text = "There are no commits to show yet."
                   
-          print("Yazdirilacak Commitler:\n" + commits_text)
+          print("Commits to be printed:\n" + commits_text)
                   
           with open("README.md", "r", encoding="utf-8") as f:
               readme = f.read()
@@ -76,9 +82,9 @@ jobs:
           if new_readme != readme:
               with open("README.md", "w", encoding="utf-8") as f:
                   f.write(new_readme)
-              print("README.md basariyla guncellendi!")
+              print("README.md has been successfully updated!")
           else:
-              print("README.md dosyasinda degisecek bir sey yok.")
+              print("There are no new activities; the README remains the same.")
           '
           
       - name: Commit and Push
@@ -86,5 +92,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "docs: terminal git log guncellendi" || exit 0
+          git commit -m "github-actions: terminal git log updated" || exit 0
           git push
