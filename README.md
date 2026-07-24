@@ -102,7 +102,12 @@ jupyter             latest     ~/notebooks
 ## `$ git log --oneline -5`
 
 <!--START_SECTION:activity-->
-
+```text
+c94c604 docs: linkedin and css logos & tool names have been changed
+b621440 docs: don't reading github-actions commits
+2606c8c docs: the README has been updated and GitHub actions have been added
+44087b0 Initial commit
+```
 <!--END_SECTION:activity-->
 
 <br>
